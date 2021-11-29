@@ -1,7 +1,7 @@
 # Projekta nosaukums
-Atmini uzdevumu
+Battle ships
 ## Apraksts
-	Programma kura randoma izmet kādu jautājumu un uz to jāatbild lai tiktu tālāk, bet uz šo vienu jautājumu var mēģināt atbildēt tikai 1 reizi, ja visas 3 reizes neatbild pareizi tad pāriet uz nākamo jautājumu un punktu pa šo jautājumu/uzdevumu nedabū. Kopā jāatbildu uz 5 jautājumiem un beigās pasaka kādu atzīmi dabūja.
+	Parasta Battle ship spēle. Spēlē pret datoru. Dators randoma saliek kuģus 10 x 10 spēļu laukumā (ja grib pats var mainīt spēles laukumu lielumu kodā) un spēlētājam jāmin kur ir kuģis lai to uzspridzinātu. Piemēram spēļu laukums ir 10 x 10 kopā būs 100 laukumiņi kur var būt kuģis, spēlētājam jāraksta 1 1 un ja tur būs kuģis tad pateiks ka tas tika noslīdzināts/uzspridzināts, protams ja tur nav kuģis tad pateiks ka tur nebija kuģa.
 ## Galvenās funkcijas
 	- Ievada tekstu
 	- Apstrādāt datus
